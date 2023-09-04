@@ -66,4 +66,4 @@ Hash2603 is designed for lightweight cryptographic applications, such as hashing
 
 
 
-Feel free to explore and use Hash2603 for your cryptographic needs! If you encounter any issues or have suggestions for improvement, please don't hesitate to [report them](https://github.com/ZenithSuite/hash2603/issues) on GitHub.
+Feel free to explore and use Hash2603 for your cryptographic needs! If you encounter any issues or have suggestions for improvement, please don't hesitate to [report them](https://github.com/0xAhmadYousuf/hash2603/issues) on GitHub.
